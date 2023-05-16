@@ -52,11 +52,11 @@ links.
 ## Other Pages
 
 Informative Pages  
-• Food and Drinks 
-• Attractions 
-• Shows 
-• Maps 
-• Etc. 
+* Food and Drinks 
+* Attractions 
+* Shows 
+* Maps 
+* Etc. 
  
 There are approximately 20 informative pages that provide information about the park. These 
 pages do not include any user-side logic and solely present details about various aspects of the 
